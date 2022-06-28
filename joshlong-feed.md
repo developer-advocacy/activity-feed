@@ -78,6 +78,7 @@
 
 ## Recent Blog Posts
 
+* [Today is the last day to submit to the SpringOne 2022 Call For Papers!](https://spring.io/blog/2022/06/28/today-is-the-last-day-to-submit-to-the-springone-2022-call-for-papers) (2022-06-28) 
 * [This Week in Spring - June 28th, 2022](https://spring.io/blog/2022/06/28/this-week-in-spring-june-28th-2022) (2022-06-28) 
 * [Spring Tips: Learn Spring for GraphQL (the last two episodes: parts 7 and 8)](https://spring.io/blog/2022/06/23/spring-tips-learn-spring-for-graphql-the-last-two-episodes-parts-7-and-8) (2022-06-24) 
 * [A Bootiful Podcast: JVM and .NET legend Ted Neward on... just about everything](https://spring.io/blog/2022/06/23/a-bootiful-podcast-jvm-and-net-legend-ted-neward-on-just-about-everything) (2022-06-23) 
@@ -87,7 +88,6 @@
 * [This Week in Spring - June 14th, 2022](https://spring.io/blog/2022/06/14/this-week-in-spring-june-14th-2022) (2022-06-14) 
 * [Spring Tips: Learn Spring for GraphQL (parts 3 and 4 of an ongoing series)](https://spring.io/blog/2022/06/10/spring-tips-learn-spring-for-graphql-parts-3-and-4-of-an-ongoing-series) (2022-06-10) 
 * [A Bootiful Podcast: Kubernetes legend and friend Cora Iberkleid on Tanzu, Cartographer, and more](https://spring.io/blog/2022/06/09/a-bootiful-podcast-kubernetes-legend-and-friend-cora-iberkleid-on-tanzu-cartographer-and-more) (2022-06-09) 
-* [This Week in Spring - June 7th, 2022](https://spring.io/blog/2022/06/07/this-week-in-spring-june-7th-2022) (2022-06-07) 
 
 ## Abstracts
 
@@ -213,7 +213,4 @@
  </ul></li>
 <li><p>Packaging for Production</p>
  <ul>
-  <li>Docker, Buildpacks, KPack, etc.</li>
-  <li>Spring Native and GraalVM</li>
- </ul></li>
-<li><p>Working wit
+  <li>Docker, Buildpacks, KPack, etc.</l
