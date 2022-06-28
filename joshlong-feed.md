@@ -45,6 +45,12 @@
 
 ## Recent Spring Tips
 
+### 2022-06-23 - [Spring for GraphQL: Data](https://spring.io/blog/2022/06/23/spring-tips-learn-spring-for-graphql-the-last-two-episodes-parts-7-and-8)
+<iframe width="560" height="315" src="https://youtube.com/embed/ahBjkmkltcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 2022-06-22 - [Spring for GraphQL: Security](https://spring.io/blog/2022/06/23/spring-tips-learn-spring-for-graphql-the-last-two-episodes-parts-7-and-8)
+<iframe width="560" height="315" src="https://youtube.com/embed/1nZcHJaQgUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 2022-06-15 - [Spring for GraphQL: Clients](https://spring.io/blog/2022/06/14/spring-tips-learn-spring-for-graphql-parts-5-and-6-of-an-ongoing-series)
 <iframe width="560" height="315" src="https://youtube.com/embed/EE-5xItDfsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -68,12 +74,6 @@
 
 ### 2022-03-23 - [Multitenant JDBC](https://spring.io/blog/2022/03/23/spring-tips-multitenant-jdbc)
 <iframe width="560" height="315" src="https://youtube.com/embed/hjJ6ODxgYqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### 2022-03-16 - [Spring Shell and Spring Native](https://spring.io/blog/2022/03/16/spring-tips-spring-shell-and-spring-native)
-<iframe width="560" height="315" src="https://youtube.com/embed/6Os6nL7TtAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### 2022-03-09 - [Hilla, an amazing new web framework from Vaadin](https://spring.io/blog/2022/03/09/spring-tips-hilla-an-amazing-new-web-framework-from-vaadin)
-<iframe width="560" height="315" src="https://youtube.com/embed/ADLbkZnKjA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Recent Blog Posts
@@ -213,4 +213,4 @@
  </ul></li>
 <li><p>Packaging for Production</p>
  <ul>
-  <li>Docker, Buildpacks, KPack, etc.</l
+  <li>Docker, Buildpa
