@@ -72,16 +72,16 @@
 
 ## Recent Blog Posts
 
-* [A Bootiful Podcast: Spring I/O founder, Spring trainer and community legend Sergi Almar](https://spring.io/blog/2022/06/02/a-bootiful-podcast-spring-i-o-founder-spring-trainer-and-community-legend-sergi-almar) (2022-06-02) 
-* [This Week in Spring - June 7th, 2022](https://spring.io/blog/2022/06/07/this-week-in-spring-june-7th-2022) (2022-06-07) 
-* [A Bootiful Podcast: Kubernetes legend and friend Cora Iberkleid on Tanzu, Cartographer, and more](https://spring.io/blog/2022/06/09/a-bootiful-podcast-kubernetes-legend-and-friend-cora-iberkleid-on-tanzu-cartographer-and-more) (2022-06-09) 
-* [Spring Tips: Learn Spring for GraphQL (parts 3 and 4 of an ongoing series)](https://spring.io/blog/2022/06/10/spring-tips-learn-spring-for-graphql-parts-3-and-4-of-an-ongoing-series) (2022-06-10) 
-* [Spring Tips: Learn Spring for GraphQL (parts 5 and 6 of an ongoing series)](https://spring.io/blog/2022/06/14/spring-tips-learn-spring-for-graphql-parts-5-and-6-of-an-ongoing-series) (2022-06-14) 
-* [This Week in Spring - June 14th, 2022](https://spring.io/blog/2022/06/14/this-week-in-spring-june-14th-2022) (2022-06-14) 
-* [Bootiful Podcast: Spring Framework contributor S??bastien Deleuze on GraalVM, AOT, project Leyden, and WebAssembly](https://spring.io/blog/2022/06/16/bootiful-podcast-spring-framework-contributor-s-bastien-deleuze-on-graalvm-aot-project-leyden-and-webassembly) (2022-06-16) 
-* [This Week in Spring - June 21st, 2022](https://spring.io/blog/2022/06/21/this-week-in-spring-june-21st-2022) (2022-06-21) 
-* [A Bootiful Podcast: JVM and .NET legend Ted Neward on... just about everything](https://spring.io/blog/2022/06/23/a-bootiful-podcast-jvm-and-net-legend-ted-neward-on-just-about-everything) (2022-06-23) 
+* [This Week in Spring - July 12th, 2022](https://spring.io/blog/2022/07/12/this-week-in-spring-july-12th-2022) (2022-07-12) 
+* [A Bootiful Podcast: Kubernetes contributor and fellow Tanzu Developer Advocate Leigh Capili](https://spring.io/blog/2022/07/07/a-bootiful-podcast-kubernetes-contributor-and-fellow-tanzu-developer-advocate-leigh-capili) (2022-07-07) 
+* [This Week in Spring - July 5th, 2022](https://spring.io/blog/2022/07/05/this-week-in-spring-july-5th-2022) (2022-07-05) 
+* [A Bootiful Podcast: Spring Developer Advocate Dan Vega](https://spring.io/blog/2022/06/30/a-bootiful-podcast-spring-developer-advocate-dan-vega) (2022-06-30) 
+* [Today is the last day to submit to the SpringOne 2022 Call For Papers!](https://spring.io/blog/2022/06/28/today-is-the-last-day-to-submit-to-the-springone-2022-call-for-papers) (2022-06-28) 
+* [This Week in Spring - June 28th, 2022](https://spring.io/blog/2022/06/28/this-week-in-spring-june-28th-2022) (2022-06-28) 
 * [Spring Tips: Learn Spring for GraphQL (the last two episodes: parts 7 and 8)](https://spring.io/blog/2022/06/23/spring-tips-learn-spring-for-graphql-the-last-two-episodes-parts-7-and-8) (2022-06-24) 
+* [A Bootiful Podcast: JVM and .NET legend Ted Neward on... just about everything](https://spring.io/blog/2022/06/23/a-bootiful-podcast-jvm-and-net-legend-ted-neward-on-just-about-everything) (2022-06-23) 
+* [This Week in Spring - June 21st, 2022](https://spring.io/blog/2022/06/21/this-week-in-spring-june-21st-2022) (2022-06-21) 
+* [Bootiful Podcast: Spring Framework contributor S??bastien Deleuze on GraalVM, AOT, project Leyden, and WebAssembly](https://spring.io/blog/2022/06/16/bootiful-podcast-spring-framework-contributor-s-bastien-deleuze-on-graalvm-aot-project-leyden-and-webassembly) (2022-06-16) 
 
 ## Abstracts
 
@@ -115,4 +115,4 @@
 <li><p><em>Message-driven and integration-centric architectures</em> - We'll look at how to build microservices that talk to each other over messaging fabrics like Apache Kafka or RabbitMQ. We'll look at how to integrate existing systems and how to use messaging to connect disparate systems. (RabbitMQ, Spring Integration, Spring Cloud Stream)</p></li>
 <li><p><em>Stream Processing</em> - We'll look at how to build solutions that process ongoing data over time. We'll look at how to compose messaging-based microservices and orchestrate them over a cloud-based fabric. (Spring Cloud Stream, Spring Cloud Data Flow)</p></li>
 <li><p><em>Partitioned Batch Processing</em> - In this section we'll look at how to process large amounts of sequential data and scale the processing across a cloud fabric. We'll look at how to scale processing horizontally as our processing needs demand. (Spring Batch, Spring Integration)</p></li>
-<li><p><em>Reliability Patterns</em> - In this section we'll look at how to employ retries and circuit breakers to build f
+<li><p><em>Reliability Patterns</em> - In this section we'll look at how to employ retries and circuit breakers to build fault-tolerence into service invocations. We'll look at approaches to gracefully degrade if a service invocation should fail. (Spring Cloud Hystrix, Sprin
